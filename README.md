@@ -1,6 +1,6 @@
-# Social Media Graph
+# Data Structures & Algorithms Final Project
 
-## Data Structures & Algorithms Final Project
+## Social Media Graph
 
 This project implements a social media graph with functionalities to add users, manage friendships, and track user interests. It also includes friend recommendation systems based on mutual friends and shared interests.
 
